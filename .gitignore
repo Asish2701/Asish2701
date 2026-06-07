@@ -1,8 +1,0 @@
-__pycache__/
-*.pyc
-.DS_Store
-.venv/
-node_modules/
-.claude/
-profile-readme-spec.md
-
