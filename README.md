@@ -1,93 +1,74 @@
-# Hi there 👋, I'm Asish
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8658E3&height=220&section=header&text=Asish2701&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="header" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+Web+Developer;Building+projects+that+solve+real+problems;Python+%7C+JavaScript+%7C+TypeScript+%7C+HTML+%7C+CSS&center=true&width=850&height=45&color=8658E3&vCenter=true&pause=1000&size=24" alt="typing svg" />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer;Always+learning+new+things+%F0%9F%9A%80;Building+dynamic+and+animated+experiences" alt="Typing SVG" />
+### whoami
 
-</div>
+I’m Asish — a developer focused on AI projects, web applications, and clean product-style interfaces.
 
----
+### featured
 
-## 🚀 About Me
-
-- 🔭 I’m currently working on **exciting web projects**
-- 🌱 I’m currently learning **advanced full-stack development**
-- 💡 I love building **dynamic, interactive, and user-friendly applications**
-- ⚡ Fun fact: **I turn coffee into code ☕**
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://github.com/Asish2701" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<p align="center">
+  <a href="https://github.com/Asish2701/Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asish2701&repo=Portfolio&theme=tokyonight&hide_border=true" alt="Portfolio" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://github.com/Asish2701/AI-Election-Intelligence-Platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asish2701&repo=AI-Election-Intelligence-Platform&theme=tokyonight&hide_border=true" alt="AI Election Intelligence Platform" />
   </a>
 </p>
 
----
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,python,java,git,github,vscode" />
+<p align="center">
+  <a href="https://github.com/Asish2701/EquityLens">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asish2701&repo=EquityLens&theme=tokyonight&hide_border=true" alt="EquityLens" />
+  </a>
+  <a href="https://github.com/Asish2701/Enterprise-Sales-Analytics-Dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asish2701&repo=Enterprise-Sales-Analytics-Dashboard&theme=tokyonight&hide_border=true" alt="Enterprise Sales Analytics Dashboard" />
+  </a>
 </p>
 
----
+### activity
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Asish2701&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asish2701&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Asish2701&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Asish2701&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asish2701&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 👀 Profile Views
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Asish2701&label=Profile%20views&color=0e75b6&style=flat" alt="Asish2701" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asish2701&theme=tokyo-night&hide_border=true" alt="activity graph" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Asish2701/Asish2701/output/snake.svg" alt="snake eating contributions" />
+</p>
 
-<div align="center">
+### stats
 
-### ✨ "Code. Create. Innovate." ✨
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Asish2701&show_icons=true&theme=tokyonight&hide_border=true" alt="stats summary" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asish2701&theme=tokyonight&hide_border=true" alt="streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asish2701&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+</p>
+
+### stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,react,nodejs,git,github,vscode" alt="tech stack" />
+</p>
+
+### elsewhere
+
+<p align="center">
+  <a href="https://github.com/Asish2701"><img src="https://img.shields.io/badge/github-Asish2701-8658E3?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/email-contact-8658E3?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/linkedin-connect-8658E3?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/your-handle"><img src="https://img.shields.io/badge/x-follow-8658E3?style=for-the-badge&logo=x&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8658E3&height=120&section=footer" alt="footer" />
+</p>
